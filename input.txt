@@ -1,0 +1,5 @@
+John Doe:50000
+Peter Smith:70000
+Joel Maique:110000
+Anna Ty:45678
+Fred Martin:98234

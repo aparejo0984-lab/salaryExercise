@@ -1,0 +1,40 @@
+
+Employee: John Doe
+Inputed Salary: $50000
+Total tax: $0
+Computed Annual Salary: $50,000
+Monthly Salary: $4,166.667
+Biweekly Salary: $2,083.333
+=================================================
+
+Employee: Peter Smith
+Inputed Salary: $70000
+Total tax: $12,600
+Computed Annual Salary: $57,400
+Monthly Salary: $4,783.333
+Biweekly Salary: $2,391.667
+=================================================
+
+Employee: Joel Maique
+Inputed Salary: $110000
+Total tax: $28,600
+Computed Annual Salary: $81,400
+Monthly Salary: $6,783.333
+Biweekly Salary: $3,391.667
+=================================================
+
+Employee: Anna Ty
+Inputed Salary: $45678
+Total tax: $0
+Computed Annual Salary: $45,678
+Monthly Salary: $3,806.5
+Biweekly Salary: $1,903.25
+=================================================
+
+Employee: Fred Martin
+Inputed Salary: $98234
+Total tax: $25,540.84
+Computed Annual Salary: $72,693.16
+Monthly Salary: $6,057.763
+Biweekly Salary: $3,028.882
+=================================================
